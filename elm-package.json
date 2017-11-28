@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
     "summary": "toMultilineString adds newlines and indentation to toString",
-    "repository": "https://github.com/AaronCZim/to-elm-format-string.git",
+    "repository": "https://github.com/AaronCZim/to-multiline-string.git",
     "license": "BSD3",
     "source-directories": [
         "./src"
